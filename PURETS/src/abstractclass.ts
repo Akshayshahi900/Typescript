@@ -22,3 +22,4 @@ class Instagram extends TakePhoto {
 }
 const akshay = new Instagram("test", "test", 3)
 akshay.getReelsTime
+
